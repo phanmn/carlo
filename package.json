@@ -1,5 +1,5 @@
 {
-  "name": "carlo",
+  "name": "@phanmn/carlo",
   "version": "0.9.46",
   "description": "Carlo is a framework for rendering Node data structures using Chrome browser.",
   "repository": "github:GoogleChromeLabs/carlo",
@@ -20,7 +20,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "debug": "^4.1.0",
-    "puppeteer-core": "~1.12.0"
+    "puppeteer-core": "^5.5.0"
   },
   "devDependencies": {
     "eslint": "^5.8.0",
